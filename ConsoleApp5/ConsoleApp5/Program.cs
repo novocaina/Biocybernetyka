@@ -280,36 +280,47 @@ namespace Problem_Plecakowy
                 }
             }
             WyswietlListeAlg2(P2);
-          /* int m = przedmiotyAlg2.Length-1;
-            int n = naszPlecak.Pojemnosc;
-            while (P2[m, n] >= 0)
+
+            int m = przedmiotyAlg2.Length - 1;
+            int n = naszPlecak.Pojemnosc + 1;
+            int cena = 0;
+            int  waga=0;
+            while (m >= 0 && P2[m, n] >= 0)
             {
-               
-                    if (P2[m, n] - P2[m, n - przedmiotyAlg2[m].Waga] == przedmiotyAlg2[m].Cena)
-                    {
-                        Console.WriteLine("WYbrano:waga:{0} cena:{1}", przedmiotyAlg2[m].Waga, przedmiotyAlg2[m].Cena);
-                        n = n - przedmiotyAlg2[m].Waga;
-                    }
 
-                    else { m = m - 1; }
-*/// ten ponizej łapie 2x25zl, ale nie umie dojsc do tego 250, blad w indeksie
-                int m = przedmiotyAlg2.Length - 1;
-                int n = naszPlecak.Pojemnosc;
-                while (P[m, n] >= 0)
+                if (przedmiotyAlg2[m].Cena != 0 && n - przedmiotyAlg2[m].Waga >= 0 && P2[m, n] - P2[m, n - przedmiotyAlg2[m].Waga] == przedmiotyAlg2[m].Cena)
                 {
-
-                    if ((P[m, n] - P[m, n - przedmiotyAlg2[m].Waga]) == przedmiotyAlg2[m].Cena)
-                    {
-                        Console.WriteLine("WYbrano:waga:{0} cena:{1}", przedmiotyAlg2[m].Waga, przedmiotyAlg2[m].Cena);
-                        n = n - przedmiotyAlg2[m].Waga;
-                    }
-
-                    else { m = m - 1; }
-
+                    Console.WriteLine("WYbrano:waga:{0} cena:{1}", przedmiotyAlg2[m].Waga, przedmiotyAlg2[m].Cena);
+                    n = n - przedmiotyAlg2[m].Waga;
+                    cena = cena + przedmiotyAlg2[m].Cena;
+                    waga = waga + przedmiotyAlg2[m].Waga;
                 }
 
+                else
+                {
 
-                Console.ReadKey();
+                    m = m - 1;
+
+                }
+            }
+            // ten ponizej łapie 2x25zl, ale nie umie dojsc do tego 250, blad w indeksie
+            /*      int m = przedmiotyAlg2.Length - 1;
+                  int n = naszPlecak.Pojemnosc;
+                  while (P[m, n] >= 0)
+                  {
+
+                      if ((P[m, n] - P[m, n - przedmiotyAlg2[m].Waga]) == przedmiotyAlg2[m].Cena)
+                      {
+                          Console.WriteLine("WYbrano:waga:{0} cena:{1}", przedmiotyAlg2[m].Waga, przedmiotyAlg2[m].Cena);
+                          n = n - przedmiotyAlg2[m].Waga;
+                      }
+
+                      else { m = m - 1; }
+
+                  }
+                  */
+            Console.WriteLine("Cena:{0},waga:{1}", cena, waga);
+            Console.ReadKey();
         }
 
         //metoda do wyswietlania porownywanych wierszy i rezyltatu przypisania z aglorytmu 2

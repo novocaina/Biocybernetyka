@@ -5,3 +5,10 @@ C:\Users\mazur\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj
 C:\Users\mazur\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
 C:\Users\mazur\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 C:\Users\mazur\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\mazur\Desktop\Biocybernetyka\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\mazur\Desktop\Biocybernetyka\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\mazur\Desktop\Biocybernetyka\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\mazur\Desktop\Biocybernetyka\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\mazur\Desktop\Biocybernetyka\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\mazur\Desktop\Biocybernetyka\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\mazur\Desktop\Biocybernetyka\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
