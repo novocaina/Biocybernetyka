@@ -29,7 +29,7 @@ namespace Problem_Plecakowy
         public static void Main(string[] args)
         {
             Plecak naszPlecak;
-            Przedmiot[] przedmioty = new Przedmiot[6];
+            Przedmiot[] przedmioty = new Przedmiot[10];
             Przedmiot[] przedmiotyAlg2 = new Przedmiot[przedmioty.Length + 1];
             Przedmiot bufor = new Przedmiot(0, 0);
             List<Przedmiot> SpakowanyPlecaczek = new List<Przedmiot>();
@@ -63,8 +63,12 @@ namespace Problem_Plecakowy
             przedmioty[1] = new Przedmiot(8, 150);
             przedmioty[2] = new Przedmiot(6, 250);
             przedmioty[3] = new Przedmiot(4, 35);
-            przedmioty[4] = new Przedmiot(2, 25);
+            przedmioty[4] = new Przedmiot(1, 25);
             przedmioty[5] = new Przedmiot(9, 100);
+            przedmioty[6] = new Przedmiot(4, 125);
+            przedmioty[7] = new Przedmiot(7, 110);
+            przedmioty[8] = new Przedmiot(1, 25);
+            przedmioty[9] = new Przedmiot(3, 170);
 
 
             #region algorytm 1

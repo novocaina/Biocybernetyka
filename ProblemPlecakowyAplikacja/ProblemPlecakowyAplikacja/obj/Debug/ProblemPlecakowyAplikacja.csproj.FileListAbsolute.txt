@@ -1,0 +1,10 @@
+C:\Users\mazur\Desktop\Biocybernetyka\ProblemPlecakowyAplikacja\ProblemPlecakowyAplikacja\bin\Debug\ProblemPlecakowyAplikacja.exe.config
+C:\Users\mazur\Desktop\Biocybernetyka\ProblemPlecakowyAplikacja\ProblemPlecakowyAplikacja\bin\Debug\ProblemPlecakowyAplikacja.exe
+C:\Users\mazur\Desktop\Biocybernetyka\ProblemPlecakowyAplikacja\ProblemPlecakowyAplikacja\bin\Debug\ProblemPlecakowyAplikacja.pdb
+C:\Users\mazur\Desktop\Biocybernetyka\ProblemPlecakowyAplikacja\ProblemPlecakowyAplikacja\obj\Debug\ProblemPlecakowyAplikacja.csprojResolveAssemblyReference.cache
+C:\Users\mazur\Desktop\Biocybernetyka\ProblemPlecakowyAplikacja\ProblemPlecakowyAplikacja\obj\Debug\ProblemPlecakowyAplikacja.Form1.resources
+C:\Users\mazur\Desktop\Biocybernetyka\ProblemPlecakowyAplikacja\ProblemPlecakowyAplikacja\obj\Debug\ProblemPlecakowyAplikacja.Properties.Resources.resources
+C:\Users\mazur\Desktop\Biocybernetyka\ProblemPlecakowyAplikacja\ProblemPlecakowyAplikacja\obj\Debug\ProblemPlecakowyAplikacja.csproj.GenerateResource.Cache
+C:\Users\mazur\Desktop\Biocybernetyka\ProblemPlecakowyAplikacja\ProblemPlecakowyAplikacja\obj\Debug\ProblemPlecakowyAplikacja.csproj.CoreCompileInputs.cache
+C:\Users\mazur\Desktop\Biocybernetyka\ProblemPlecakowyAplikacja\ProblemPlecakowyAplikacja\obj\Debug\ProblemPlecakowyAplikacja.exe
+C:\Users\mazur\Desktop\Biocybernetyka\ProblemPlecakowyAplikacja\ProblemPlecakowyAplikacja\obj\Debug\ProblemPlecakowyAplikacja.pdb
